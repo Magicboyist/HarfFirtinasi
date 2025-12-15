@@ -1,50 +1,46 @@
-# Harf Fırtınası (Letter Storm)
+# Harf Fırtınası
 
-A mesmerizing interactive particle animation where chaotic letters form words and disperse back into chaos.
+Kaotik harflerin kelimeler oluşturduğu ve tekrar kaosa dağıldığı etkileşimli bir parçacık animasyonu.
 
-![Project Preview](https://github.com/Magicboyist/HarfFirtinasi/raw/main/preview.png) <!-- Ideally we'd have a screenshot here, but I'll leave a placeholder or just omit if no image exists yet -->
+![Proje Önizlemesi](https://github.com/Magicboyist/HarfFirtinasi/raw/main/preview.png)
 
-## 🌟 Features
+## 🌟 Özellikler
 
-- **Interactive Particle System**: Thousands of particles reacting to create text.
-- **Dynamic States**: Transitions between Chaos, Aligning, Holding, and Dispersing states.
-- **Custom Input**: Type any word to see it form from the chaos.
-- **Visuals**: Glowing effects, smooth physics, and responsive design.
-- **Responsive**: Adapts to different screen sizes.
+- **Etkileşimli Parçacık Sistemi**: Metin oluşturmak için tepki veren binlerce parçacık.
+- **Dinamik Durumlar**: Kaos, Hizalanma, Bekleme ve Dağılma durumları arasında geçişler.
+- **Özel Girdi**: İstediğiniz kelimeyi yazın ve kaostan oluşmasını izleyin.
+- **Görseller**: Parlama efektleri, akıcı fizik ve duyarlı tasarım.
+- **Duyarlı**: Farklı ekran boyutlarına uyum sağlar.
 
-## 🛠️ Technologies Used
+## 🛠️ Kullanılan Teknolojiler
 
-- **HTML5 Canvas**: For high-performance rendering.
-- **JavaScript (ES6+)**: Core logic and particle physics.
-- **CSS3**: Styling and UI overlay.
-- **Google Fonts**: Uses 'Outfit' for a modern look.
+- **HTML5 Canvas**: Yüksek performanslı görselleştirme için.
+- **JavaScript (ES6+)**: Temel mantık ve parçacık fiziği.
+- **CSS3**: Şekillendirme ve arayüz katmanı.
+- **Google Fonts**: Modern bir görünüm için 'Outfit' yazı tipi.
 
-## 🚀 How to Run
+## 🚀 Nasıl Çalıştırılır
 
-1. Clone the repository:
+1. Projeyi klonlayın:
    ```bash
    git clone https://github.com/Magicboyist/HarfFirtinasi.git
    ```
-2. Open `index.html` in your web browser.
-   - Simply double-click the file or use a local server (e.g., Live Server in VS Code).
+2. `index.html` dosyasını tarayıcınızda açın.
 
-## 🎮 Controls
+## 🎮 Kontroller
 
-- **Input Field**: Type a word (max 15 characters).
-- **BAŞLAT (Start) Button**: Triggers the animation for the typed word.
-- **Mouse Interaction**: Move your mouse to disturb the particles (if enabled in config).
+- **Giriş Alanı**: Bir kelime yazın (maksimum 15 karakter).
+- **BAŞLAT Düğmesi**: Yazılan kelime için animasyonu tetikler.
+- **Fare Etkileşimi**: Parçacıkları dağıtmak için farenizi hareket ettirin.
 
-## 📝 Configuration
+## 📝 Yapılandırma
 
-You can tweak the `config` object in `script.js` to change:
-- `particleSize`: Size of individual letters.
-- `particleColor`: Color palette for the particles.
-- `text`: Default starting text.
-- `stormRadius`: Radius of the storm effect.
+`script.js` içindeki `config` nesnesini düzenleyerek şunları değiştirebilirsiniz:
+- `particleSize`: Harflerin boyutu.
+- `particleColor`: Parçacıkların renk paleti.
+- `text`: Başlangıç metni.
+- `stormRadius`: Fırtına efektinin yarıçapı.
 
-## 👤 Author
+## 👤 Yazar
 
 **Tekno Ömer**
-
----
-*Created for fun and visual experimentation.*
