@@ -41,6 +41,6 @@ Kaotik harflerin kelimeler oluşturduğu ve tekrar kaosa dağıldığı etkileş
 - `text`: Başlangıç metni.
 - `stormRadius`: Fırtına efektinin yarıçapı.
 
-## 👤 Yazar
+## 👤 Geliştirici
 
 **Tekno Ömer**
