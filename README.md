@@ -31,7 +31,6 @@ Kaotik harflerin kelimeler oluşturduğu ve tekrar kaosa dağıldığı etkileş
 
 - **Giriş Alanı**: Bir kelime yazın (maksimum 15 karakter).
 - **BAŞLAT Düğmesi**: Yazılan kelime için animasyonu tetikler.
-- **Fare Etkileşimi**: Parçacıkları dağıtmak için farenizi hareket ettirin.
 
 ## 📝 Yapılandırma
 
